@@ -75,9 +75,9 @@ Data gabungan kurs dan nilai ekspor-impor digunakan untuk membangun model superv
   - Visualisasi hasil dan prediksi regresi disiapkan dengan matplotlib/seaborn
 
 - **Link Projek:**
-  - ETL Pipeline: 
+  - ETL Pipeline: https://github.com/widyawuland/Data-Engginering/blob/main/Project/TeamProjek4.ipynb
   - Mechine Learning: 
-  - Visualisasi: 
+  - Visualisasi: https://github.com/widyawuland/Data-Engginering/blob/main/Project/Visualisasi.pbix
 
 ## Kontributor
 | Nama Lengkap         | NIM         | Peran           |
