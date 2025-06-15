@@ -76,7 +76,7 @@ Data gabungan kurs dan nilai ekspor-impor digunakan untuk membangun model superv
 
 - **Link Projek:**
   - ETL Pipeline: https://github.com/widyawuland/Data-Engginering/blob/main/Project/TeamProjek4.ipynb
-  - Mechine Learning: 
+  - Mechine Learning: https://github.com/widyawuland/Data-Engginering/blob/main/Project/Machine_Learning.ipynb
   - Visualisasi: https://github.com/widyawuland/Data-Engginering/blob/main/Project/Visualisasi.pbix
 
 ## Kontributor
