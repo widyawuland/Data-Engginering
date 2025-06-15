@@ -60,7 +60,7 @@ Data gabungan kurs dan nilai ekspor-impor digunakan untuk membangun model superv
   - Disusun urut di Google Colab mulai dari scraping, cleaning, merging, hingga load ke database.
 
 - **Tools yang Digunakan:**
-  - Python
+  - Bahasa Python
   - Library: `pandas`, `numpy`, `requests`, `matplotlib`, `seaborn`, `scikit-learn`
   - Jupyter/Google Colab sebagai environment utama
 
